@@ -111,8 +111,17 @@ The "wolf andsnow" problem in AI highlights the risk of machine learning algorit
 --
 
 12. What are the main kinds (and sources) of algorithmic bias?  
-    •    Types: Pre-existing, technical, emergent  
-    •    Sources: Biased data, model assumptions, societal stereotypes  
+- Algorithmic bias primarily stems from：
+  
+  - Data Bias (non-representative or prejudiced data)
+  
+  - Model Bias (flaws in model design or assumptions)
+  
+  - Algorithmic Processing Bias (how data is processed or interpreted by the algorithm)
+  
+  - Societal Bias (biases embedded in societal norms and structures).
+
+
 
 --
 
@@ -733,3 +742,5 @@ Questions relating to Caroline Rizza's class.
 89. What was the Facebook papers controversy about?  
     •    The Facebook Papers were a series of internal documents leaked by a whistleblower, revealing how Facebook (now Meta) handled   misinformation, hate speech, and mental health issues related to its platforms.  
     •    The controversy highlighted the company's struggle with content moderation, its impact on public discourse and mental health, and the balance between free speech and harmful content.  
+
+
