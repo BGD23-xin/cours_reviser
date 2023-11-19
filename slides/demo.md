@@ -99,6 +99,8 @@
 
 10. What is the “wolf and snow” problem?
 
+The "wolf andsnow" problem in AI highlights the risk of machine learning algorithmslearning from irrelevant features (like snowy backgrounds) rather than theintended distinguishing characteristics (like differences between wolves andhuskies), underscoring the critical importance of careful training dataselection and analysis in AI development.
+
 --
 
 11. Can ML be certified in safety critical systems?  
@@ -551,7 +553,7 @@ Questions relating to Ada Diaconescu's class
 
 - **<u>Functionality</u>**: How the technology works, its capabilities, and limitations.  
 
--  **<u>Impact on Society</u>**: Effects on social interactions, lifestyle, work, education, and culture.  
+- **<u>Impact on Society</u>**: Effects on social interactions, lifestyle, work, education, and culture.  
 
 - **<u>Economic Effects</u>**: Influence on markets, employment, productivity, and innovation.  
 
@@ -638,18 +640,16 @@ Questions relating to Antonio Casilli's class
 78. ###### What are the key principles contained in "AI Guidelines" and what is missing?
     
     •    Transparency: Making AI systems and their decisions understandable.   
-    
     •    Accountability: Ensuring responsibility for AI outcomes.   
-    
     •    Fairness: Avoiding biases and promoting equality.   
 
 --
 
 - Safety and Security: Protecting against misuse and ensuring reliability.
 
--  Privacy: Safeguarding personal data.
+- Privacy: Safeguarding personal data.
 
--  What's Missing: Often lacks specific implementation strategies, enforcement mechanisms, and may not fully address the rapid evolution of AI technology.
+- What's Missing: Often lacks specific implementation strategies, enforcement mechanisms, and may not fully address the rapid evolution of AI technology.
 
 --
 
