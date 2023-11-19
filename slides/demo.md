@@ -1,7 +1,3 @@
----
-
----
-
 <h6>1.What’s the difference between symbolic AI and ML?</h6>
 
 - Symbolic AI:  
@@ -399,7 +395,6 @@ Questions from Sept 19 2022 class (WINSTON MAXWELL)
 --
 
 42. What are the seven principles in the HLEG(<u>High-Level Expert Group</u>) guideines?  
-      
 -  Human agency and oversight.
 
 - Technical robustness and safety.
@@ -412,7 +407,7 @@ Questions from Sept 19 2022 class (WINSTON MAXWELL)
 
 - Societal and environmental well-being.
 
--  Accountability.
+- Accountability.
 
 --
 
@@ -468,9 +463,7 @@ Questions from Sept 19 2022 class (WINSTON MAXWELL)
 --
 
 48. ~~What is transhumanism?~~
-    
     ~~•    ~~Philosophical movement that advocates enhancing human capacities through advanced technology.~~
-    
     ~~•    Envisions a future where humans transcend their biological limitations.~~
     ~~•    Involves concepts like life extension, cognitive enhancements, and AI integration~~
 
@@ -599,7 +592,7 @@ Questions relating to Jean-Samuel Beuscart course
 
 
 65. ###### What is a hype loop?  需要讨论
--  This term seems unusual in the context of AI or technology. It might be a misinterpretation or a less common term. If you meant "hype cycle," it refers to a ***<u>graphical representation of the maturity, adoption, and social application of specific technologies.</u>***
+- This term seems unusual in the context of AI or technology. It might be a misinterpretation or a less common term. If you meant "hype cycle," it refers to a ***<u>graphical representation of the maturity, adoption, and social application of specific technologies.</u>***
 
 --
 
@@ -733,8 +726,8 @@ Questions relating to Christian Licoppe's class
 - **Customization**: 
 
 - **Feedback Interpretation**: Humans can adapt closure based on real-time feedback during the interaction, a flexibility that robots may not have.
-
-
+  
+  
 
 ---
 
