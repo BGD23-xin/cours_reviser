@@ -188,7 +188,7 @@ The "wolf andsnow" problem in AI highlights the risk of machine learning algorit
 
 --
 
-20. Can you reduce false positives and false negatives at the same time?  
+20. Can you reduce false positives and false negatives at the same time?  ***<u>yes</u>***
 - Difficult->Often a trade-off;
 
 - improving one can worsen the other.
