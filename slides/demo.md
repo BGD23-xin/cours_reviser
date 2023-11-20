@@ -591,8 +591,8 @@ Questions relating to Jean-Samuel Beuscart course
 
 
 
-65. ###### What is a hype loop?  需要讨论
-- This term seems unusual in the context of AI or technology. It might be a misinterpretation or a less common term. If you meant "hype cycle," it refers to a ***<u>graphical representation of the maturity, adoption, and social application of specific technologies.</u>***
+65. ###### What is a hype loop?
+- This term seems unusual in the context of AI or technology. It might be a misinterpretation or a less common term. If you meant "hype cycle," it refers to a ***<u>graphical representation of the maturity, adoption, and social application of specific technologies.</u>*** 这可能包括最初对人工智能推动道德决策的潜力感到兴奋，随后随着挑战和限制变得明显而感到幻灭，并最终导致对道德人工智能更加平衡的理解和实际应用。
 
 --
 
